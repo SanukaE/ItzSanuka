@@ -1,11 +1,11 @@
-<h1 style="text-aline: center; text-decoration: underline;">Hello 👋, I'm Sanuka</h1>
-<h2 style="text-aline: center;">A biggner at programming.</h2>
+<h1 text-aline: center; text-decoration: underline;>Hello 👋, I'm Sanuka</h1>
+<h2 text-aline: center;>A biggner at programming.</h2>
 
 - 🧑‍🤝‍🧑: I’m looking to collaborate with **anyone**.
 
 - 🤝 I’m looking for help with **javascript**.
 
-- 👨‍💻 All of my projects are available at **<a href="https://itzsanuka.great-site.net/">my website</a>**.
+- 👨‍💻 All of my projects are available at **<a href="https://itzsanuka.great-site.net/" targe="_blank">my website</a>**.
 
 - 💬 Ask me about **minecraft**.
 
