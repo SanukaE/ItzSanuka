@@ -17,7 +17,7 @@
  </p>
 
  ## My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ItzSanuka&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SanukaE&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItzSanuka&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzSanuka&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanukaE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanukE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
